@@ -1,0 +1,30 @@
+div{
+	width: 500px;
+	height: 500px;
+}
+
+#cuadrado{
+	float: left;
+}
+
+#cuadrado1{
+	background-color: #1E00FF;
+}
+
+#cuadrado2{
+	background-color: #000000;
+	position: absolute;
+	width: 121px;
+	height: 121px;
+	left: : 200px;
+	top:8px;
+}
+
+#cuadrado3{
+	background-color:#398D47;
+	position: absolute;
+	width: 250px;
+	height: 250px;
+	left:130px;
+	top:130px;
+}
